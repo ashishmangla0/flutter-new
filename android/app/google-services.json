@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "173091891226",
+    "firebase_url": "https://fire-notes-2301c.firebaseio.com",
+    "project_id": "fire-notes-2301c",
+    "storage_bucket": "fire-notes-2301c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173091891226:android:bea06a3625f38817",
+        "android_client_info": {
+          "package_name": "com.example.dddddd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173091891226-p3ijp10kc0el2fpvfdee9lu9v2dg3g9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuKSWHUxAYF68UOzFHTTb4O-yBTMfrA4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173091891226-p3ijp10kc0el2fpvfdee9lu9v2dg3g9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
